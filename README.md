@@ -1,23 +1,17 @@
 <h1 align="center">
-<br>
-
-<br>
 My DevOps Journey
 <br>
 </h1>
 
 <p align="center">
-<b><a href="#introduction">Introduction</a></b>
+<b><a href="#technologies">Technologies</a></b>
 |
-<b><a href="#content">Content</a></b>
-|
+<b><a href="#credits">Credits</a></b>
 </p>
-
-## Introduction
 
 This repository includes self-taught personal projects. The designs can be used freely, but none are at the appropriate level for use in the production environment.
 
-## Content
+## Technologies
 
 Included are codes developed during my free time to implement new technologies or to reinforce knowledge already acquired.
 
@@ -27,7 +21,7 @@ Included are codes developed during my free time to implement new technologies o
 | [Terraform](Terraform)         | Projects developed using the Terraform tool              |
 | [Azure DevOps](ADO)            | Projects developed using the Azure DevOps platform       |
 | [Azure](Azure/)                | Projects developed the Azure plataform                   |
-| [Linux](Linux/)                |  Projects developed using Linux                          |
+| [Linux](https://github.com/victor-cleber/linux_for_devops.git)                |  Projects developed using Linux                          |
 
 
 ## Credits
