@@ -17,11 +17,10 @@ Included are codes developed during my free time to implement new technologies o
 
 | Folder                         | Description                                              |
 | :----------------------------- | :------------------------------------------------------- |
-| [Ansilbe](Ansible)             | Projects developed using the Ansible tool                |
-| [Terraform](Terraform)         | Projects developed using the Terraform tool              |
+| [Environment Provisioning](https://github.com/victor-cleber/environment_provisioning)     | Provision your environment using diverse technologies  |
 | [Azure DevOps](ADO)            | Projects developed using the Azure DevOps platform       |
-| [Azure](Azure/)                | Projects developed the Azure plataform                   |
-| [Linux](https://github.com/victor-cleber/linux_for_devops.git)                |  Projects developed using Linux                          |
+| [Azure](Azure/)                | Projects developed in the Azure plataform                |                                            
+| [Linux](https://github.com/victor-cleber/linux_for_devops.git)                            |  Projects developed using Linux            |
 
 
 ## Credits
