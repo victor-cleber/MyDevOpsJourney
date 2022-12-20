@@ -1,1 +1,35 @@
-# my_devops_journey
+<h1 align="center">
+<br>
+
+<br>
+My DevOps Journey
+<br>
+</h1>
+
+<p align="center">
+<b><a href="#introduction">Introduction</a></b>
+|
+<b><a href="#content">Content</a></b>
+|
+</p>
+
+## Introduction
+
+This repository includes self-taught personal projects. The designs can be used freely, but none are at the appropriate level for use in the production environment.
+
+## Content
+
+Included are codes developed during my free time to implement new technologies or to reinforce knowledge already acquired.
+
+| Folder                         | Description                                              |
+| :----------------------------- | :------------------------------------------------------- |
+| [Ansilbe](Ansible)             | Projects developed using the Ansible tool                |
+| [Terraform](Terraform)         | Projects developed using the Terraform tool              |
+| [Azure DevOps](ADO)            | Projects developed using the Azure DevOps platform       |
+| [Azure](Azure/)                | Projects developed the Azure plataform                   |
+| [Linux](Linux/)                |  Projects developed using Linux                          |
+
+
+## Credits
+
+Copyright (C) 2022 by Victor Cleber
