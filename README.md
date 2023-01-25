@@ -22,6 +22,7 @@ Included are codes developed during my free time to implement new technologies o
 | [Azure](Azure/)                | Projects developed in the Azure plataform                |                                            
 | [Linux](https://github.com/victor-cleber/linux_for_devops.git)                            |  Projects developed using Linux            |
 | [Git]()                        |  Git            |
+| [Automation]()                        |  Automation            |
 
 
 ## Credits
